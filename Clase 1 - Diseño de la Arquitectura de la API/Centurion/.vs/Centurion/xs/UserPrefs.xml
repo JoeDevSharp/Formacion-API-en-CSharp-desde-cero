@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{0093731C-A865-4A73-94E2-329BA0F8B39C}|https">
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Centurion/Centurion.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.API FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

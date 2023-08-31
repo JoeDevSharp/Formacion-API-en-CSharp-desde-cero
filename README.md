@@ -31,7 +31,7 @@ Esta formación es ideal para aquellos que desean construir APIs cross-plataform
 - Implementación de autorización en los endpoints.
 - Uso de políticas de acceso.
 
-# 10: Implementación y Despliegue
+## Implementación y Despliegue
 - Preparación de la aplicación para producción.
 - Opciones de despliegue en diferentes plataformas (Windows, Linux).
 - Publicación de la API en un servidor.
